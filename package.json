@@ -1,8 +1,8 @@
 {
   "name": "convert-website-to-app",
   "version": "0.0.1",
-  "author": "Jameson Saunders",
-  "homepage": "https://jamesonsaunders.com/offer/website-to-app-497?s=githubcode",
+  "author": "TebogoDee",
+  "homepage": "https://weistream.co.za/offer/website-to-app-497?s=githubcode",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -10,6 +10,8 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build
   },
   "private": true,
   "dependencies": {
