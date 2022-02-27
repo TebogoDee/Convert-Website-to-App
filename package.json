@@ -1,8 +1,8 @@
 {
-  "name": "convert-website-to-app",
+  "name": "weistream-app",
   "version": "0.0.1",
   "author": "TebogoDee",
-  "homepage": "https://weistream.co.za/offer/website-to-app-497?s=githubcode",
+  "homepage": "https://weistream.co.za/offer/weistream-app-497?s=githubcode",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
